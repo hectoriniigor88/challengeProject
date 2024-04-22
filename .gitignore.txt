@@ -1,0 +1,26 @@
+# Eclipse
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Maven
+target/
+
+# Selenium
+geckodriver.log
+
+# TestNG
+test-output/
